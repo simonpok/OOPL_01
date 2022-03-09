@@ -1,0 +1,6 @@
+1.wap to add two objects of a class using friend function, the class consists of hour and minute as its 
+     data member, input(),sum() as its member function. 
+   
+  2.wap to add two integers and return the sum using inline function. 
+
+  3.WAP to add two complex number of two different classes. (use friend class). 
